@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Index - Invent Bootstrap Template</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Invent
+  * Template URL: https://bootstrapmade.com/invent-bootstrap-business-template/
+  * Updated: May 12 2025 with Bootstrap v5.3.6
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.webp" alt=""> -->
+        <!-- <h1 class="sitename">Invent</h1><span>.</span> -->
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Cover</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#certificate">Certificate</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <!-- <li><a href="#portfolio">Portfolio</a></li> -->
+          
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <!-- <a class="btn-getstarted" href="#about"></a> -->
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row align-items-center mb-5">
+          <div class="col-lg-8 mb-4 mb-lg-0">
+          
+          <div></div>
+            <h1 class="hero-title mb-4">From Data to Dashboard <br> Muh. Khaifun, Analyst & Web Developer</h1>
+
+           
+            <div class="cta-wrapper">
+              <a href="#" class="btn btn-primary">Discover More</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4" style="padding-left: 90px ;">
+            <div class="hero-image">
+              <img src="assets/img/me.jpg" alt="Business Growth" class="img-fluid" loading="lazy" style="width: 90%;">
+            </div>
+          </div>
+        </div>
+
+        <div class="row feature-boxes">
+          <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-box">
+              <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                <i class="bi bi-bar-chart-line-fill"></i>
+              </div>
+              <div class="feature-content">
+                <h3 class="feature-title">Data Analyst</h3>
+                <p class="feature-text">Transforming sales and stock data into clear, actionable insights to support faster and smarter decisions.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="feature-box">
+              <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                <i class="bi bi-window"></i>
+              </div>
+              <div class="feature-content">
+                <h3 class="feature-title">Web Developer</h3>
+                <p class="feature-text">Developed and deployed 40+ custom web applications using PHP and CodeIgniter 4</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="feature-box">
+              <div class="feature-icon me-sm-4 mb-3 mb-sm-0">
+                <i class="bi bi-cpu-fill"></i>
+              </div>
+              <div class="feature-content">
+                <h3 class="feature-title">IT Support</h3>
+                <p class="feature-text">Solving IT issues on-site, minimizing downtime and ensuring operational continuity in dynamic retail environments.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+            <p class="who-we-are">About Me</p>
+            <h3>Hi I'M Muh. Khaifun, S.Kom.</h3>
+            <p class="fst-italic" align="justify">
+              I am an Informatics graduate with a strong passion for data analysis and building efficient data-driven systems. With over 40 completed PHP–MySQL-based projects and a custom KPI dashboard that reduced reporting time by 60%, I bring solid technical expertise and strong business insight.
+            </p>
+            <p class="fst-italic" align="justify">
+              Experienced in workflow optimization, IT troubleshooting, and system supervision. Proficient in SQL, Excel, and Google Data Studio, with strong analytical thinking, adaptability, and the ability to collaborate.
+            </p>
+            <p>Tools & Technical Skills: Excel (advanced formulas, pivot table), SQL, PHP–MySQL, Python, Google Data Studio, Power BI, Able to analyze large datasets, create interactive dashboards, and communicate insights through visualizations and reports.</p>
+            <p class="fst-italic" align="justify">
+              Education:
+            </p>
+            <ul>
+              <li><i class="bi bi-check-circle"></i> <span>Universitas Cokroaminoto Palopo</span></li>
+              <ul>
+                <li>GPA : 3.91</li>
+              </ul>
+            </ul>
+          </div>
+
+          <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
+            <div class="row gy-4">
+              <div class="col-lg-6">
+                <img src="assets/img/3.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="col-lg-6">
+                <div class="row gy-4">
+                  <div class="col-lg-12">
+                    <img src="assets/img/1.png" class="img-fluid" alt="">
+                  </div>
+                  <div class="col-lg-12">
+                    <img src="assets/img/2.png" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- /About Section -->
+
+    <!-- How We Work Section -->
+    <section id="certificate" class="how-we-work section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Cerification</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="steps-5">
+          <div class="process-container">
+
+            <div class="process-item" data-aos="fade-up" data-aos-delay="200">
+              <div class="content">
+                <span class="step-number">01</span>
+                <div class="card-body">
+                  <div class="step-icon">
+                    <i class="bi bi-pencil-square"></i>
+                  </div>
+                  <div class="step-content">
+                    <h3>Junior Network Administrator | BNSP</h3>
+                    <!-- <p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p> -->
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Process Item -->
+
+            <div class="process-item" data-aos="fade-up" data-aos-delay="300">
+              <div class="content">
+                <span class="step-number">02</span>
+                <div class="card-body">
+                  <div class="step-icon">
+                    <i class="bi bi-gear"></i>
+                  </div>
+                  <div class="step-content">
+                    <h3>CyberOps Assocation| Universitas Indonesia</h3>
+                    <!-- <p>Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus.</p> -->
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Process Item -->
+
+            <div class="process-item" data-aos="fade-up" data-aos-delay="400">
+              <div class="content">
+                <span class="step-number">03</span>
+                <div class="card-body">
+                  <div class="step-icon">
+                    <i class="bi bi-search"></i>
+                  </div>
+                  <div class="step-content">
+                    <h3>The Data Analyst Course: Complete Data Analyst Bootcamp | Udemy</h3>
+                    <p>Complete Data Analyst Training: Python, NumPy, Pandas, Data Collection, Preprocessing, Data Types, Data Visualization</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Process Item -->
+
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /How We Work Section -->
+
+    <!-- Services Section -->
+    <section id="experience" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Experience</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row justify-content-center g-5">
+
+          <div class="col-md-6" data-aos="fade-right" data-aos-delay="100">
+            <div class="service-item">
+              <div class="service-icon">
+                <i class="bi bi-bar-chart-line"></i>
+              </div>
+              <div class="service-content">
+                <h3>Entry Data Processing <br> Matahari Department Store</h3>
+                <p align="justify">Handled sales data analysis and report preparation to support management using Excel tools. Improved inventory accuracy with shrinkage checks and efficient reporting dashboards. Reduced POS downtime and ensured smooth store operations through IT troubleshooting and system coordination.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-left" data-aos-delay="100">
+            <div class="service-item">
+              <div class="service-icon">
+                <i class="bi bi-code-slash"></i>
+              </div>
+              <div class="service-content">
+                <h3>Web Application Developer  <br> Freelance</h3>
+                <p align="justify">Built 40+ PHP-MySQL web apps by analyzing client needs and designing efficient systems. Automated workflows to boost efficiency by 40% and reduce errors. Ensured on-time delivery through clear communication and progress tracking.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-right" data-aos-delay="200">
+            <div class="service-item">
+              <div class="service-icon">
+                <i class="bi bi-palette2"></i>
+              </div>
+              <div class="service-content">
+                <h3>IT Developer & Finance Developer <br> Internship</h3>
+                <p align="justify">Developed a fund verification app with automated checks and approvals, speeding up validation by 30%. Managed 1,000+ documents using a tagged classification system for better tracking. Improved accuracy with thorough analysis and reduced errors by 25% through structured checklists and alerts.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Services Section -->
+
+
+  </main>
+
+  <footer id="footer" class="footer light-background">
+
+   
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">My Portofolio</strong> <span>All Rights Reserved</span></p>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
